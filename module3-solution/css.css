@@ -17,11 +17,18 @@ html{
 }
 
 .nav-link{
-    /* background-color: rgb(117, 117, 117); */
-    width: 100%;
+    background-color: rgb(49, 49, 49);
+    width: 110%;
+    margin-bottom: -20px;
+    margin-left: -20px;
+    padding-top: 0;
+    line-height: 76px;
+    height: 76px;
     text-align: center;
+    font-weight: bold;
     font-size: 20px;
 }
+
 
 section{
     /* background-color: rgb(217, 255, 255); */
